@@ -1,4 +1,4 @@
-# 
+# updated new token sniper bot | back-running + front-running is the best new token sniper bot, featuring back-running and front-running. Fast, smart, and optimized for MEV and
 
 
 
